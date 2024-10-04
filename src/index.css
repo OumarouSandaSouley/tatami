@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-kameron {
+  font-family: "Kameron";
+}
+body {
+  color: #ccc;
+  font-family: "Poppins", serif;
+}
